@@ -1,4 +1,4 @@
-#### Purpose ####
+#### Purpose #####
 - Sample Spring Boot Project created to use it in the hiring process of Cloud/DevOps  
 
 ### How to Start the application ###
